@@ -1,0 +1,4 @@
+
+2025-01-04 00:52:42 | Process: Palworld-WinGDK-Shipping.exe | Window: Pal  
+2025-01-04 00:52:47 | Process: Palworld-WinGDK-Shipping.exe | Window: Pal  
+2025-01-04 00:52:57 | Process: Palworld-WinGDK-Shipping.exe | Window: Pal  
